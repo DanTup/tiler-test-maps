@@ -1,0 +1,40 @@
+{ "height":5,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 0, 0, 1, 2, 3, 0, 0, 28, 29, 30, 0, 0, 55, 56, 57, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":1,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"2019.04.25",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "columns":27,
+         "firstgid":1,
+         "image":"..\/tiles\/kenny_rpg_urban_pack.png",
+         "imageheight":288,
+         "imagewidth":432,
+         "margin":0,
+         "name":"kenny_rpg_urban_pack",
+         "spacing":0,
+         "tilecount":486,
+         "tileheight":16,
+         "tilewidth":16
+        }],
+ "tilewidth":16,
+ "type":"map",
+ "version":1.2,
+ "width":5
+}
