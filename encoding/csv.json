@@ -21,17 +21,8 @@
  "tileheight":16,
  "tilesets":[
         {
-         "columns":27,
          "firstgid":1,
-         "image":"..\/tilesets\/kenny_rpg_urban_pack.png",
-         "imageheight":288,
-         "imagewidth":432,
-         "margin":0,
-         "name":"kenny_rpg_urban_pack",
-         "spacing":0,
-         "tilecount":486,
-         "tileheight":16,
-         "tilewidth":16
+         "source":"..\/tilesets\/kenny_rpg_urban_pack.json"
         }],
  "tilewidth":16,
  "type":"map",
