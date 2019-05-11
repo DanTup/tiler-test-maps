@@ -1,0 +1,31 @@
+{ "height":5,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[233, 234, 0, 2684354820, 2684354793, 260, 261, 0, 2684354821, 2684354794, 0, 0, 0, 0, 0, 1610612970, 1610612997, 0, 3221225733, 3221225732, 1610612969, 1610612996, 0, 3221225706, 3221225705],
+         "height":5,
+         "id":2,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":3,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"2019.04.25",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tilesets\/kenny_rpg_urban_pack.json"
+        }],
+ "tilewidth":16,
+ "type":"map",
+ "version":1.2,
+ "width":5
+}
