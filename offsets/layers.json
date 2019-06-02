@@ -64,14 +64,16 @@
                          "rotation":0,
                          "text":
                             {
-                             "text":"Hello World",
+                             "fontfamily":"MS Shell Dlg 2",
+                             "pixelsize":11,
+                             "text":"Hello",
                              "wrap":true
                             },
                          "type":"",
                          "visible":true,
                          "width":83,
                          "x":-30,
-                         "y":20
+                         "y":40
                         }],
                  "offsetx":40,
                  "offsety":20,
